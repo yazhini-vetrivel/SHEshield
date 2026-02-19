@@ -1,4 +1,3 @@
-# Add these at the bottom of settings.py
-TWILIO_ACCOUNT_SID = 'your_sid_here'
-TWILIO_AUTH_TOKEN = 'your_auth_token_here'
-TWILIO_PHONE_NUMBER = 'your_twilio_number_here'
+VONAGE_API_KEY=your_nexmo_api_key
+VONAGE_API_SECRET=your_nexmo_api_secret
+VONAGE_FROM_NUMBER=SafetyApp  # You can use a name or a Nexmo number
