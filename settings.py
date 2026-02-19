@@ -1,0 +1,4 @@
+# Add these at the bottom of settings.py
+TWILIO_ACCOUNT_SID = 'your_sid_here'
+TWILIO_AUTH_TOKEN = 'your_auth_token_here'
+TWILIO_PHONE_NUMBER = 'your_twilio_number_here'
